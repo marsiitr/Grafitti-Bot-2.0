@@ -4,8 +4,8 @@ Graffiti bot 2.0 is a fully automated bot capable of creating given designs(upto
 dimensions 90cmx90cm) on wall or on any vertical surface. It works by spraying tiny
 dots(analogous to pixels in a digital picture) at the right locations to create a whole picture.
 # Acknowledgement: 
-We would like to express our special thanks to Shivam Srivastava
-sir , Gautham Sriram Sir , Sushant Samuel Sir , Bhaskar sir for guiding us through the journey.
+We would like to express our special thanks to [Shivam Srivastava
+sir](https://www.facebook.com/Shivamsrivastava1912?ref=br_rs) , [Gautham Sriram Sir](https://www.facebook.com/gauthams1?ref=br_rs) , [Sushant Samuel Sir](https://www.facebook.com/sushant.samuel.3?ref=br_rs) , [Bhaskar sir](https://www.facebook.com/bhaskarkaushik.bk?ref=br_rs) for guiding us through the journey.
 # Motivation: 
 It takes a lot of time,human effort and money to create graffitis on wall. Even
 finding the right skilled person is difficult. If a human creates graffiti, we have limited choices.
